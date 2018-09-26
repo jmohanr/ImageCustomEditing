@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		841AD85C215B99CD003691F9 /* TestingApis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841AD85B215B99CD003691F9 /* TestingApis.swift */; };
 		84F3D3BE2158EF4E001FD8A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F3D3BD2158EF4E001FD8A8 /* AppDelegate.swift */; };
 		84F3D3C02158EF4E001FD8A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F3D3BF2158EF4E001FD8A8 /* ViewController.swift */; };
 		84F3D3C32158EF4E001FD8A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F3D3C12158EF4E001FD8A8 /* Main.storyboard */; };
@@ -86,6 +87,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		841AD85B215B99CD003691F9 /* TestingApis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingApis.swift; sourceTree = "<group>"; };
 		84F3D3BA2158EF4E001FD8A8 /* ImageEditing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageEditing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F3D3BD2158EF4E001FD8A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84F3D3BF2158EF4E001FD8A8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -212,6 +214,7 @@
 			children = (
 				84F3D3F42158F81E001FD8A8 /* ImageProcessing.h */,
 				84F3D4102158F834001FD8A8 /* ImageProcess.swift */,
+				841AD85B215B99CD003691F9 /* TestingApis.swift */,
 				84F3D3F52158F81E001FD8A8 /* Info.plist */,
 			);
 			path = ImageProcessing;
@@ -424,6 +427,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84F3D4112158F834001FD8A8 /* ImageProcess.swift in Sources */,
+				841AD85C215B99CD003691F9 /* TestingApis.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
